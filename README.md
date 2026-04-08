@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="banner"/>
+</p>
+
 <h1 align="center">🚀 Juan Venegas</h1>
 
 <p align="center">
@@ -15,7 +19,7 @@
 
 ## 🧠 Sobre mí
 
-Desarrollador enfocado en construir soluciones reales, automatizar procesos y mejorar la eficiencia de sistemas.
+Desarrollador Full Stack enfocado en construir soluciones reales, automatizar procesos y mejorar la eficiencia de sistemas.
 
 Actualmente trabajando en **Delfin Group Chile**, desarrollando herramientas que impactan directamente en la operación.
 
@@ -50,7 +54,7 @@ Actualmente trabajando en **Delfin Group Chile**, desarrollando herramientas que
 
 ### 🛒 wemoguen.cl
 
-E-commerce funcional para gestión de productos y ventas online.
+Plataforma e-commerce funcional para gestión de productos y ventas online.
 
 🔹 Desarrollo enfocado en negocio real
 🔹 Integración frontend + backend
@@ -62,7 +66,7 @@ E-commerce funcional para gestión de productos y ventas online.
 
 ### 🌐 Portafolio Web
 
-Sitio personal moderno con tecnologías actuales.
+Sitio personal moderno desarrollado con tecnologías actuales.
 
 🔹 React + Vite
 🔹 Diseño responsive
@@ -76,10 +80,10 @@ Sitio personal moderno con tecnologías actuales.
 
 ### ⚙️ Automatización TI
 
-Scripts para optimizar tareas internas.
+Scripts y herramientas para optimizar procesos internos.
 
 🔹 Reducción de trabajo manual
-🔹 Procesos repetitivos automatizados
+🔹 Automatización de tareas repetitivas
 🔹 Mejora de eficiencia operativa
 
 </td>
