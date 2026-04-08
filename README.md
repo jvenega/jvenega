@@ -1,16 +1,27 @@
-## Hi there 👋
+# Juan Venegas 👨‍💻
 
-<!--
-**jvenega/jvenega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
 
-Here are some ideas to get you started:
+Desarrollador Full Stack enfocado en automatización, eficiencia y soluciones reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajando en Delfin Group Chile.
+
+## 🧠 Stack
+
+* Backend: Python, Node.js
+* Frontend: React
+* Otros: Automatización, APIs, integración de sistemas
+
+## 📌 Proyectos destacados
+
+* 🛒 Plataforma e-commerce (wemoguen.cl)
+* 🌐 Sitio web + frontend moderno (React + Vite)
+* ⚙️ Automatizaciones internas empresa
+
+## 🎯 Enfoque
+
+Optimización de procesos, desarrollo de herramientas útiles y soluciones prácticas.
+
+## 📫 Contacto
+
+* Correo: pheonixzero@outlook.cl
